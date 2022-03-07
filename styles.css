@@ -16,10 +16,20 @@ body{
   height: 100vh;
 }
 
-img{
-  height: 80px;
+#logo{
+  height: 70px;
+  max-height: 8vh;
   width: auto;
-  margin: 40px 0;
+  margin: 20px 0 40px 0;
+}
+
+#photo{
+  height: 200px;
+  max-height: 20vh;
+  width: auto;
+  margin: 20px 0;
+  border-radius: 100%;
+  border: 8px solid #FFCF27;
 }
 
 .buttonLogo{
@@ -45,7 +55,7 @@ button{
   flex-direction: row;
   align-items: center;
   width: 100%;
-  max-width: 300px;
+  width: 300px;
   background-color: #fff;
   border: 4px solid #000;
   position: relative;
