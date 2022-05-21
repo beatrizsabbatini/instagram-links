@@ -6,7 +6,7 @@ body{
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  min-height: 100vh;
   background-image: url('./assets/background.png');
   background-repeat: repeat;
   background-size: 50px 50px;
@@ -38,6 +38,7 @@ button{
 }
 
 #logo{
+  min-height: 40px;
   height: 70px;
   max-height: 8vh;
   width: auto;
@@ -45,6 +46,7 @@ button{
 }
 
 #photo{
+  min-height: 100px;
   height: 200px;
   max-height: 20vh;
   width: auto;
