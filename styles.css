@@ -89,6 +89,10 @@ button{
   text-align: start;
 }
 
+#practicum{
+  background-color: #FFCF27;
+}
+
 button::before{
   content: "";
   position: absolute;
