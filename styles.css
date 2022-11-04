@@ -97,6 +97,11 @@ button{
   background-color: #FFCF27;
 }
 
+#lucralize{
+  background-color: #0d1428;
+  color: #fff;
+}
+
 #coderhouse{
   background: rgb(233,144,254);
   background: linear-gradient(30deg, rgba(233,144,254,1) 0%, rgba(235,195,191,1) 35%, rgba(234,255,105,1) 100%);
