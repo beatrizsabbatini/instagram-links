@@ -68,6 +68,12 @@ button{
   margin-right: 15px;
 }
 
+.buttonLogoEbac{
+  margin: 0;
+  height: 35px;
+  margin-right: 15px;
+}
+
 .buttonLogoRemessa{
   margin: 0;
   height: 40px;
@@ -156,6 +162,11 @@ button{
 #coderTexts{
   display: flex;
   flex-direction: column;
+}
+
+#ebac{
+  background-color: #000;
+  color: #fff;
 }
 
 button::before{
