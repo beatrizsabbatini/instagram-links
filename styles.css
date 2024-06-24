@@ -11,6 +11,7 @@ body {
   background-repeat: repeat;
   background-size: 50px 50px;
   animation: animatedBackground 20s linear infinite;
+  padding: 20px;
 }
 
 
@@ -78,6 +79,12 @@ button {
   margin: 0;
   height: 40px;
   margin-right: 10px;
+}
+
+#cdc{
+  display: flex;
+  justify-content: center;
+  background-color: #65379d;
 }
 
 #coderhouseicon {
